@@ -19,8 +19,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (mysqli_query($mysqli, $query)) {
         // Jika berhasil, redirect kembali ke halaman index atau sesuaikan dengan kebutuhan Anda
         echo '<script>';
-        echo 'alert("Data obat berhasil diubah!");';
-        echo 'window.location.href = "../dashboard/dashboard_admin";';
+        echo 'alert("Data obat berhasil diedit!");';
+        echo 'window.location.href = "../../dashboard/dashboard_admin.php";';
         echo '</script>';
         exit();
     } else {

@@ -82,7 +82,9 @@
     </div><!-- /.container-fluid -->
 </div>
 <!-- /.content -->
+<div id="seg-modal">
 
+</div>
 
 <!-- Modal Tambah Data Obat -->
 <div class="modal fade" id="addModal" tabindex="-1" role="dialog" aria-labelledby="addModalLabel" aria-hidden="true">
