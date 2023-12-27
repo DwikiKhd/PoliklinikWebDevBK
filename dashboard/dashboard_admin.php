@@ -66,7 +66,7 @@ $role = 'admin';
             </div>
             <!-- Default to the left -->
             <strong>Copyright &copy; 2014-2021 <a href="https://adminlte.io">AdminLTE.io</a>.</strong>
-            Bill's Poliklinik.
+            Dwiki's Poliklinik.
         </footer>
     </div>
     <!-- ./wrapper -->
